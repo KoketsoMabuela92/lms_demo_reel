@@ -6,7 +6,7 @@ The course is a ten-minute feedback module: a branching conversation, a knowledg
 
 ## Launch
 
-Open the course at [https://koketsomabuela92.github.io/say-it-clearly/](https://koketsomabuela92.github.io/say-it-clearly/).
+Open the course at [https://koketsomabuela92.github.io/lms_demo_reel/](https://koketsomabuela92.github.io/lms_demo_reel/).
 
 To run it locally:
 
